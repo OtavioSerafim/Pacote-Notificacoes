@@ -1,0 +1,23 @@
+{
+  "name": "@OtavioSerafim/pacote-notificacoes",
+  "version": "1.0.0",
+  "description": "Sistema de notificações configurável e reutilizável",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtavioSerafim/Pacote-Notificacoes.git"
+  },
+  "keywords": ["notificações", "pacote", "templates", "alertas", "mensagens"],
+  "author": "Otávio Serafim de Souza Matos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OtavioSerafim/Pacote-Notificacoes/issues"
+  },
+  "homepage": "https://github.com/OtavioSerafim/Pacote-Notificacoes#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
