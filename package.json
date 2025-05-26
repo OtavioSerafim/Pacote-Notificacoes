@@ -1,6 +1,6 @@
 {
   "name": "@OtavioSerafim/pacote-notificacoes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sistema de notificações configurável e reutilizável",
   "main": "src/index.js",
   "scripts": {
