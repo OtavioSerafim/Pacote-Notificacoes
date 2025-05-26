@@ -183,3 +183,9 @@ MIT
 ## Autor
 
 Otávio Serafim de Souza Matos
+
+# Pacote de Notificações
+
+[![Node.js Package](https://github.com/OtavioSerafim/Pacote-Notificacoes/actions/workflows/publish.yml/badge.svg)](https://github.com/OtavioSerafim/Pacote-Notificacoes/actions/workflows/publish.yml)
+
+Um sistema flexível e reutilizável para gerenciar notificações em aplicações JavaScript.

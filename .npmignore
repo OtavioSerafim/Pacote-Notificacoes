@@ -1,0 +1,8 @@
+tests/
+.github/
+.vscode/
+.git/
+.gitignore
+.npmrc
+jest.config.js
+coverage/
